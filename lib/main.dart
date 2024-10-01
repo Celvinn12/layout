@@ -58,12 +58,12 @@ class MyApp extends StatelessWidget {
     Widget textSection = Container(
       padding: const EdgeInsets.all(32),
       child: const Text(
-        'Carilah teks di internet yang sesuai '
-        'dengan foto atau tempat wisata yang ingin '
-        'Anda tampilkan. '
-        'Tambahkan nama dan NIM Anda sebagai '
-        'identitas hasil pekerjaan Anda. '
-        'Selamat mengerjakan 🙂.',
+        'Oeschinen Lake is about as blue and beautiful '
+        's a lake can be. Nestled in the Jungfrau-Aletsch-Bietschhorn '
+        'UNESCO World Heritage Site of the Bernese Alps, '
+        'it is home to magical scenery, '
+        'azure blue waters, hiking trails, '
+        'great fishing, and lots more.',
         softWrap: true,
       ),
     );
